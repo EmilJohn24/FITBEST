@@ -1,2 +1,0 @@
-# FITBEST
-Project in PROLOGI and LBYCPA1
